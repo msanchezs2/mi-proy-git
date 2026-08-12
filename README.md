@@ -1,6 +1,6 @@
 ## primer linea
 
-
-## que paso todos, yo les enseñare git 
+- este cambio es de branch Alex
+ 
 
 - hola, octavio aqui
